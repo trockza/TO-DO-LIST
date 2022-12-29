@@ -1,3 +1,14 @@
+1.หลังจากทำการ clone หรือ download มาแล้วให้ทำการเปิดด้วย visual studio code
+2.cd เข้าไปที่ my-app
+3.ทำการพิม npm i เพื่อติดตั้ง module ทั้งหมด
+4.npm start เพื่อเริ่มใช้งาน
+
+
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
